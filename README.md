@@ -31,7 +31,10 @@ OR, to run the website locally:
     py index.py
     ```
 
-OR, to run only the backend:
+OR, to run only the program:
+TwoPhaseLocking.py -> Two-Phase Locking Algorithm
+OCC.py -> OCC Algorithm
+MVCC.py -> MVCC Algorithm
 ```bash
 python src/concurrency-control-be/ <TwoPhaseLocking / OCC / MVCC>.py
 ```
