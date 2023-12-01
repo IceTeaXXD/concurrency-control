@@ -1,0 +1,6 @@
+[submodule "src/concurrency-control-be"]
+	path = src/concurrency-control-be
+	url = https://github.com/IceTeaXXD/concurrency-control-be.git
+[submodule "src/concurrency-control-fe"]
+	path = src/concurrency-control-fe
+	url = https://github.com/IceTeaXXD/concurrency-control-fe.git
